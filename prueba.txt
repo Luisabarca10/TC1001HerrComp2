@@ -1,0 +1,5 @@
+Hola, Cómo están, amigos.
+Esta es una prueba de edición de texto desde la terminal.
+Lorem Ipsum, dolor amet
+
+
